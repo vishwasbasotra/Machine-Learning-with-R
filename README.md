@@ -5,7 +5,7 @@ The process of learning begins with observations or data, such as examples, dire
 
 ## Course Content:
 ### Part 1: Data Preprocessing
--> Data Preprocessing in Python
+-> Data Preprocessing in R
 ### Part 2: Regression
 
 1. Simple Linear Regression
